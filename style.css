@@ -191,6 +191,7 @@ li {
     height: 800px;
     width: 100%;
     display: flex;
+    justify-content: center;
     
     margin-top: -58px;
 }
@@ -343,7 +344,7 @@ li {
 }
 
 .bottam-nav3 {
-    padding: 0px 70px;
+    
     height: 512px;
 }
 .nav3-content {
@@ -363,7 +364,7 @@ li {
     font-family: sans-serif;
 }
 .box1 {
-    width: 355px;
+    width: 403px;
     height: 168px;
     float: left;
     box-sizing: border-box;
@@ -372,20 +373,40 @@ li {
     padding: 10px;
     font-size: 40px;
     float: left;
+    background-color: bisque;
 
 }
+#calender3 {
+    padding: 10px;
+    font-size: 28px;
+    float: left;
+    background-color: bisque;
+}
+#calender4 {
+    padding: 10px;
+    font-size: 31px;
+    float: left;
+    background-color: bisque;
+}
+#calender5 {
+    padding: 10px;
+    font-size: 35px;
+    float: left;
+    background-color: bisque;
+}
 #heading1 {
-    padding: 0px 70px;
-    margin-top: 10px;
-    margin-left: -9px;
+    padding: 0px 68px;
 
 }
 #box1-parah {
     margin-top: 5px;
-    width: 290px;
+    width: 320px;
     font-size: 16px;
+    height: 120px;
+    padding: 0px 14px;
+    float: left;
     font-family: sans-serif;
-    float: inline-start;
+    
 }
 
 .footer {
@@ -400,7 +421,7 @@ li {
     height: 600px;
     padding: 0px 70px;
     background: #141829;
-    opacity: .8;      
+    opacity: .9;      
 }
 .footer-content {
    height: 100%;
@@ -425,8 +446,9 @@ li {
     border-right: none;
 }
 .mail {
-    width: 54%;
+    width: 49.9%;
     float: left;
+    
 }
 #email {
     color: aliceblue;
@@ -438,5 +460,130 @@ li {
     border-top: none;
     border-left: none;
     border-right: none;
+    width: 93%;
+    height: 37px;
+
 
 }
+
+
+
+#search-telefone {
+   
+    border-color: #45495a;
+    background: none;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    height: 37px;
+    width: 100%;
+    
+
+}
+.telefone-section {
+    width: 49.9%;
+    float: left;
+}
+
+
+#telefone {
+    color: aliceblue;
+    font-size: 19px;
+}
+
+#message {
+    float: left;
+    font-size: 20px;
+    color: aliceblue;
+    margin-top: 22px;
+    width: 100%;
+
+
+}
+#search-message {
+    height: 40px;
+    width: 100%;
+    border-color: #45495a;
+    margin-bottom: 25px;
+    background: none;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    margin-top: 90px;
+
+}
+#button3 {
+    height: 45px;
+    width: 120px;
+    margin-top: 80px;
+    background-color: white;
+    border-color: white;
+   
+    border-radius: 24px;
+
+
+}
+
+.residence {
+    width: 40%;
+    height: 600px;
+    box-sizing: border-box;
+    float: left;
+    padding-top: 59px;
+    padding-left: 60px;
+}
+#parah1 {
+    width: 100%;
+    color: rgb(188, 214, 236);
+    margin-top: 18px;
+}
+#heading2 {
+    color: white;
+    margin-top: 18px;
+}
+.parah2 {
+    color: rgb(188, 214, 236);
+    margin-top: 154px;
+
+}
+#number {
+    margin-top: 12px;
+    color: white;
+    font-size: 38px;
+}
+.footer2 {
+    height: 166px;
+    padding: 0px 70px;
+    box-sizing: border-box;
+    background-color: aliceblue;
+
+    
+
+}
+.footer2 img {
+    height: 81px;
+    width: 145px;
+    margin-top: 53px;
+    margin-left: 66px;
+    float: left;
+
+    cursor: pointer;
+}
+bold {
+    font-weight: bold;
+}
+#numeric {
+    margin-left: 338px;
+    padding-top: 47px;
+    color: #45495a;
+}
+#parah3 {
+    padding-left: 339px;
+    color: #45495a;
+}
+#parah4 {
+    padding-left: 340px;
+    padding-top: 7px;
+    color: #45495a;
+}
+
