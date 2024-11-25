@@ -122,7 +122,8 @@ img {
     height: 112px;
     padding: 15px 70px;
     box-sizing: border-box;
-    border: 2px solid green;
+    border: 2px solid #141829;
+
 }
 .logo{   
     height: 82px;
@@ -275,7 +276,7 @@ li {
 #skull {
     font-size: 30px;
     color: white;
-    padding: 23px;
+    padding: 19px;
 }
 .div2 h2 {
     color: white;
@@ -361,6 +362,9 @@ li {
 
 .nav4-boxes {
     margin-top: 68px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
     font-family: sans-serif;
 }
 .box1 {
@@ -439,6 +443,7 @@ li {
     height: 40px;
     width: 100%;
     border-color: #45495a;
+    color: aquamarine;
     margin-bottom: 25px;
     background: none;
     border-top: none;
@@ -460,6 +465,7 @@ li {
     border-top: none;
     border-left: none;
     border-right: none;
+    color: aquamarine;
     width: 93%;
     height: 37px;
 
@@ -475,6 +481,7 @@ li {
     border-top: none;
     border-left: none;
     border-right: none;
+    color: aquamarine;
     height: 37px;
     width: 100%;
     
@@ -501,7 +508,7 @@ li {
 
 }
 #search-message {
-    height: 40px;
+    height: 100px;
     width: 100%;
     border-color: #45495a;
     margin-bottom: 25px;
@@ -509,7 +516,8 @@ li {
     border-top: none;
     border-left: none;
     border-right: none;
-    margin-top: 90px;
+    margin-top: 34px;
+    color: aquamarine;
 
 }
 #button3 {
@@ -518,6 +526,7 @@ li {
     margin-top: 80px;
     background-color: white;
     border-color: white;
+    cursor: pointer;
    
     border-radius: 24px;
 
